@@ -1,5 +1,25 @@
 {
-    "Package Name": "skillreactor_project",
-    "Version": "1.0.0",
-    "Description": "My first node project"
-  }
+  "Package Name": "skillreactor_project",
+  "Version": "1.0.0",
+  "Description": "My first node project",
+  "name": "skillreactor",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "nodejs.js",
+  "scripts": {
+    "test": "'use strict';"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monatheoctocat/my_package.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "usama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monatheoctocat/my_package/issues"
+  },
+  "homepage": "https://github.com/monatheoctocat/my_package#readme"
+}
